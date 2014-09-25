@@ -1,0 +1,54 @@
+#footer {
+	width: 100%;
+	height:50px;
+}
+
+#copyright {
+width: 100%;
+margin-top:25px;
+padding:5px;
+background:rgba(128,128,128,0.5);
+text-align:center;
+font:12px Tahoma;
+
+border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+}
+
+body {
+background-image:url(img/dirty-paper-seamless-background.jpg);
+display:-webkit-box;
+-webkit-box-pack:center;
+-webkit-box-align:center;
+
+}
+.center{
+display:-webkit-box;
+-webkit-box-pack:center;
+-webkit-box-align:center;
+}
+/*
+#wrapper {
+display:block;
+
+
+}
+*/
+
+article{
+border: 0px solid black;
+
+}
+
+div {
+
+display:-webkit-box;
+-webkit-box-pack:center;
+-webkit-box-align:center;
+
+}
+p {
+padding: 50px 50px 50px 50px;
+background:rgba(128,128,128,0.5);
+}
